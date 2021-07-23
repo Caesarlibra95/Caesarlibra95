@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Caesarlibra95
+- 👋 Hi, I’m Caesar
 - 👀 I’m interested in mobile app dev
 - 🌱 I’m currently learning Xamarin
 - 💞️ I’m looking to collaborate on any project on mobile app dev (android)
